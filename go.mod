@@ -5,7 +5,7 @@ go 1.22.2
 require (
 	github.com/InfluxCommunity/influxdb3-go v0.7.0
 	github.com/caarlos0/env/v11 v11.0.0
-	github.com/hashicorp/go-retryablehttp v0.7.6
+	github.com/hashicorp/go-retryablehttp v0.7.7
 	github.com/influxdata/line-protocol/v2 v2.2.1
 )
 
